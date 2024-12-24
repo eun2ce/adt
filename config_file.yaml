@@ -1,0 +1,4 @@
+remote_host_env:
+  host: 'localhost'
+  user: 'eun2ce'
+  password: 'xxx'
